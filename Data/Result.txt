@@ -1,0 +1,4 @@
+Open,High,Volume,Low,Close,Name
+230.315,234.02,31162937,220.48,223.47,Advanced Micro Devices, Inc.
+295.77,299.19,3259383,294.25,291.5,International Business Machines
+270.715,271.5,41443892,266.16,271.01,Apple Inc.
