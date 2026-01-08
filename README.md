@@ -9,7 +9,7 @@ This repository is an example of ETL workflows built with SQL Server Integration
    
 ### 2. **Excel to Database table**
    - Workflow that read from Excel file containing exchange rates, transform datatypes and insert into "financial_data_warehouse.dbo.exchange_rates".
-   - [Exchange rates worfklow](https://github.com/limyeeseng/FinancialDataWarehouse/wiki/Exchange-rates)
+   - [Exchange rates worfklow](https://github.com/limyeeseng/FinancialDataWarehouse/wiki/Exchange-rates-workflow)
    
 ### 3. **Rest API to Flat file**
    - Workflow that read a REST API, extract partial information and writes it to a Flat File
