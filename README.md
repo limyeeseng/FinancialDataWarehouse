@@ -12,11 +12,11 @@ This repository is an example of ETL workflows built with SQL Server Integration
    - [Exchange rates worfklow](https://github.com/limyeeseng/FinancialDataWarehouse/wiki/Exchange-rates)
    
 ### 3. **Rest API to Flat file**
-   - A comprehensive collection of YouTube video tutorials that will guide you through the ins and outs of the Microsoft BI Stack. Learn at your own pace with step-by-step instructions and in-depth discussions.
-   - [YouTube README](Youtube/README.md)
-   - [YouTube Video Links](Youtube/youtube-video-links.md)
+   - Workflow that read a REST API, extract partial information and writes it to a Flat File
+   - [Stock Quotes workflow](https://github.com/limyeeseng/FinancialDataWarehouse/wiki/Stock-Quotes-workflow)
 
 ## Key Technologies:
 - Microsoft SQL Server and Integration Services.
 - Visual Studio and SQL Server Integration Services Projects.
+- Postman rest client
  
